@@ -1,6 +1,6 @@
 # RLDMS
 
-## This is the readme file that contains the guidelines and information about the compilation the code of the following paper
+## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
 
 **Paper Name:-** Reinforcement Learning Based Dialogue Management Strategy
 >This paper proposes a novel Markov Decision Process (MDP) to solve the problem of learning an optimal strategy by a Dialogue Manager for a flight enquiry system. A unique representation of state is presented followed by a relevant action set and a reward model which is specific to different time-steps. Different Reinforcement Learning (RL) algorithms based on classical methods and Deep Learning techniques have been implemented for the execution of the Dialogue Management component. To establish the robustness of the system, existing Slot-Filling (SF) module has been integrated with the system. The system can still generate valid responses to act sensibly even if the SF module falters. The experimental results indicate that the proposed MDP and the system hold promise to be scalable across satisfying the intent of the user.
