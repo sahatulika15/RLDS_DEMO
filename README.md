@@ -7,7 +7,7 @@
 
 * **Authors:** Tulika Saha, Dhawal Gupta, Sriparna Saha and Pushpak Bhattacharyya
 * **Affiliation:** Indian Institute of Technology Patna, India
-* **Corresponding Author:** [Tulika Saha] (sahatulika15@gmail.com / pratik.pcs16@iitp.ac.in)
+* **Corresponding Author:** [Tulika Saha] (sahatulika15@gmail.com / tulika.pcs16@iitp.ac.in)
 * **Accepted(August, 2018):**  [International Conference on Neural Information Processing], ICONIP, 2018, pp 359-372
 
 If you consider this work as useful, please cite it as
